@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+
+{% block content_title %}{{ SITENAME }}{% endblock %}
+
+{% block content %}
+<div class="large-9 columns">
+	{% for article in articles_page.object_list %}        
+		<article>
+			<header>
+				<div class="article-info">{{ article.locale_date }}</div>
+				<div class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+				title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></div>
+				{% if article.subtitle %}<div class="article-subtitle">{{ article.subtitle }}</div>{% endif %}
+			</header>
+			<div class="article-summary">
+				{% if article.summary %}
+					{{ article.summary }}
+				{% else %}
+					{{ article.content|truncate(70) }}
+				{% endif %}
+				<p>&rarr; <a href="{{ SITEURL }}/{{ article.url }}"><font style="color:#8a9a89">Read More</font></a></p>
+			</div>
+		</article>
+
+		{% if loop.last %}
+			{% if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
+				{% include 'pagination.html' %}
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+</div>
+{% endblock content %}
+
+{% block aside %} 
+<aside class="sidebar">
+	<div style="text-align: center;">
+		<img src="/images/avatar.jpg" width="100" class="avatar" />
+	</div>
+
+	<div class="sidebar-title"><font style="color:black;font-family:'Open Sans';font-weight: bold">Site</font></div>
+	<ul class="side-nav">
+		<li><a href="{{ SITEURL }}/">Home</a></li>
+		
+		<li><a href="{{ SITEURL }}/archives.html">Archives</a></li>
+		
+	    <li><a href="{{ SITEURL }}/tags.html">Tags</a></li>
+		
+		{% if FEED_RSS %}
+		<li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" rel="alternate">Atom feed</a></li>
+		{% endif %}
+		{% if FEED_RSS %}
+		<li><a href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" rel="alternate">RSS feed</a></li>
+		{% endif %}
+		<div class="sidebar-title"></div>
+		<ul class="side-nav">
+		{% for page in PAGES %}
+			<li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+		{% endfor %}
+		</ul>
+		
+		
+        {% if categories %}		
+        <h6 class="sidebar-title"><font style="color:black;font-family:'Open Sans';font-weight: bold">CATEGORIES</font></h6>
+        <ul class="side-nav">
+        {% for cat, null in categories %}
+            <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+        {% endfor %}   
+        </ul>
+        {% endif %}
+		
+		
+	</ul>
+	
+	{% if LINKS %}
+	<div class="sidebar-title">Links</div>
+	<ul class="side-nav">
+	{% for name, link in LINKS %}
+		<li><a href="{{ link }}">{{ name }}</a></li>
+	{% endfor %}
+	</ul>
+	{% endif %}
+	
+	{% if SOCIAL %}
+	<div class="sidebar-title">Social</div>
+	<ul class="side-nav">
+	{% for name, link in SOCIAL %}
+		<li><a href="{{ link }}">{{ name }}</a></li>
+	{% endfor %}
+	</ul>
+	{% endif %}
+	
+	<div style="text-align: center; margin-top: 4px;">
+		<form method="get" action="http://www.google.com/search">
+			<input type="text" name="q" style="float: left; width: 100px;" maxlength="255" value="" />
+			
+			<input type="hidden" name="sitesearch" value="linnus.net" />
+		</form>
+	</div>
+	
+</aside>
+{% endblock aside %}

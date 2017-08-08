@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div style="margin-bottom: 0.5em" class="article-title"><a href="{{ SITEURL }}/tags.html" rel="bookmark" 
+	title="Permalink to Tags"><font style="font-size:150%">Tags</font></a></div>
+	
+{% for tag, articles in tags|sort %}
+	<a href="{{ SITEURL }}/{{ tag.url }}"><font style="color:#444;font-family:'Open Sans';font-weight: bold;font-size:120%">{{ tag }}</font></a>
+	<table class="table-tag">
+	<tbody>
+		{% for article in articles|sort %}
+			<tr>
+			<td><time datetime="{{ article.date.isoformat() }}" pubdate>{{ article.locale_date }}</time></td>
+			<td><a href='{{ article.url }}'>{{ article.title }}</a></td>
+			</tr>
+		{% endfor %}
+	</tbody>
+	</table>
+	
+{% endfor %}
+
+{% endblock %}
