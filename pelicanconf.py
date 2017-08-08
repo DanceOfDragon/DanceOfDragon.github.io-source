@@ -3,7 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'JIN Lin'
-SITENAME = u'JL-Blog | No Bullshit'
+SITENAME = u'JIN-LIN | Hallo,World! '
+SITESUBTITLE = u'What I cannot write down I cannot deliver.'
+
 SITEURL = 'http://linnus.net'
 
 TIMEZONE = 'Singapore'
@@ -22,10 +24,14 @@ DIRECT_TEMPLATES = ['index','archives','categories','tags']
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+
 MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%m}/index.html'
 YEAR_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/index.html'
+
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
+
+ABOUT_PAGE = '/pages/about.html'
 
 #THEME
 THEME = 'themes/theme-jakevdp'
@@ -37,7 +43,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 #plug-ins
 
 PLUGIN_PATHS = ['./plugins', './plugins/pelican-plugins']
-PLUGINS = ['render_math','sitemap', 'liquid_tags.img','better_codeblock_line_numbering','liquid_tags.youtube','liquid_tags.img','ipynb.liquid','related_posts','clean_summary']
+PLUGINS = ['render_math','sitemap', 'liquid_tags.img','better_codeblock_line_numbering','liquid_tags.youtube','liquid_tags.img','ipynb.liquid','clean_summary']
 
 MARKUP = ('md', 'ipynb')
 
@@ -55,24 +61,36 @@ SITEMAP = {
         "pages": "monthly",
     }
 }
-#related posts
-RELATED_POSTS_MAX = 5
 
-ABOUT_PAGE = '/pages/about.html'
+# for liquid tags
+# CODE_DIR = 'downloads/code'
+# NOTEBOOK_DIR = 'downloads/notebooks'
+
+#related posts
+#RELATED_POSTS_MAX = 5
+
+# About Page
+
+TWITTER_USERNAME = 'XL62812072'
+GITHUB_USERNAME = 'DanceOfDragon'
+
+#AUTHOR_CV = "http://staff.washington.edu/jakevdp/media/pdfs/CV.pdf"
+
+#Achives
+
 SHOW_ARCHIVES = True
 
 ENABLE_MATHJAX = True
 
 #clean summary 
 CLEAN_SUMMARY_MAXIMUM = 0
+
 #CLEAN_SUMMARY_MINIMUM_ONE = False
 
 
 #md-highlight
-MD_EXTENSIONS = ['codehilite(css_class=highlight,linenums=False)','extra', 'toc(permalink=true)']
+#MD_EXTENSIONS = ['codehilite(css_class=highlight,linenums=False)','extra', 'toc(permalink=true)']
 
-#SEO SITE DESCRIPTION
-SITE_DESCRIPTION = u'My name is JIN Lin(金林). My interest: Python for data analyis;biomedicl research;reading;design;running;more.You can check out anytime.'
 
 DISQUS_SITENAME = 'linnus'
 GOOGLE_ANALYTICS = 'UA-64765479-1'
@@ -80,21 +98,7 @@ GOOGLE_ANALYTICS = 'UA-64765479-1'
 #ignore files 
 IGNORE_FILES = ['.DS_Store', '.DS_store']
 
-# Feed generation is usually not desired when developing
 
-#FEED_ATOM = 'feeds/atom.xml'
-#FEED_RSS = 'feeds/rss.xml'
-#TAG_FEED_ATOM = 'feeds/tags/%s.atom.xml'
 
-# Blogroll
-#LINKS = (('Zhihu', 'http://www.zhihu.com/people/forrest-jing'),)
-        # ('Python.org', 'http://python.org/'),)
-#socoial profile lable
-#SOCIAL_PROFILE_LABEL = u'StayInTouch'
-# Social widget
 
-#SOCIAL = (('Email','jinlinnus@gmail.com'),)
-#            ('Github','http://github.com/danceofdragon')
-#            ,('Linkedin','https://www.linkedin.com/profile/view?id=144875458&trk=hp-identity-name'),)
-#          (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+

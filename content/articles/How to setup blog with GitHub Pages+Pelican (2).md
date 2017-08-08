@@ -64,7 +64,7 @@ Related to the page address provided by GitHub.
 
 
 After commit CNAME files to the remote repo, you should see this: 
-![](https://dl.dropboxusercontent.com/u/18094167/blogimages/settingssite.png)
+![settingssite](https://dl.dropboxusercontent.com/u/18094167/blogimages/settingssite.png)
 
 GitHub has provide a [guide](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) for setting your custom domain as well. 
 

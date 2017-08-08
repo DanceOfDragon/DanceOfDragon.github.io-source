@@ -130,13 +130,13 @@ As you run the command `make devserver`, it automatically generates a folder cal
 				# upload the local changes to the remote repository 
 
 Now, check your `settings` in your GitHub repository. If it shows the following message: 
-![](https://dl.dropboxusercontent.com/u/18094167/BlogImages/settingssite.png)
+![settingssite](https://dl.dropboxusercontent.com/u/18094167/BlogImages/settingssite.png)
 
 Without a personal domain, the address will be `http://username.github.io` instead. To be explained how to set up your personal domain. 
 
 You might encounter some error messages when running above Git commands like I have experienced when I pull/push back and forth. For example:
 
-![](https://dl.dropboxusercontent.com/u/18094167/BlogImages/error1.png)
+![error1](https://dl.dropboxusercontent.com/u/18094167/BlogImages/error1.png)
 
 For this particular problem which you might be encounter later when you make other modifications, run the following code before push the changes if the remote files are unwanted anymore: 
 
