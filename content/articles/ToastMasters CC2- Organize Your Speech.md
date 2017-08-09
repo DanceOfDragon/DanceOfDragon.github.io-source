@@ -1,7 +1,7 @@
 Title:ToastMasters CC2: Organize Your SpeechDate: 2016-07-23 20:40Modified: 2016-07-23Tags: randomCategory: Blog/EnglishSlug: ToastMasters-CC2-Organize-Your-SpeechAuthor: JIN Lin
 
 
-![http://blog.vodafone.co.uk/2015/07/16/step-to-the-beat-the-amazing-science-behind-spotify-running/](https://dl.dropboxusercontent.com/u/18094167/BlogImages/CC2-organize%20your%20speech.jpg)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/108107823@N04/36229797292/in/dateposted-public/" title="CC2-organize your speech"><img src="https://farm5.staticflickr.com/4439/36229797292_1e06538088.jpg" width="500" height="269" alt="CC2-organize your speech"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ###The Script
 
@@ -17,7 +17,7 @@ Before I start my own story, could I have a show of hands: anyone here is runnin
 Unlike some serious runners, I did do any research, did not buy any special shoes or clothes, I did not set any goal, I just went out and ran, two/ three / four times a week. That's how impetuous I was. That was how I started running. > comment: how I started running.
 Once get started, the next step is to maintain it. Luckily, running seems a natural fit for me, so it is not that difficult for me to keep it going. I may stop running sometime, but every now and then, I still feel the urge, coming from my body, to go out and run. 
 
-![Running](https://dl.dropboxusercontent.com/u/18094167/BlogImages/CC2-organize%20your%20speech1.jpeg)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/108107823@N04/36001111130/in/dateposted-public/" title="CC2-organize your speech1"><img src="https://farm5.staticflickr.com/4429/36001111130_d761cac4e2.jpg" width="500" height="265" alt="CC2-organize your speech1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Over these years, I enjoyed running as much as the benefits of running. Running wise, the most enjoyable moment is probably the time when I feel like I am meditating, forgot I am actually running, forgot the pain, forgot the time. I had this kind of Zen experience but not so often. As for the benefits of running, it helped me to get sleep, helped me to manage pressure, so I rarely got sick over the years. Meanwhile, through running, I have set my feet on almost every possible road near school. The small area around NUS became even smaller from a runners' perspective. Maybe that is why people say, when your speed reaches another level, you view the same thing different. No, no, I am not talking about relativity or time travel.> comment: what did I get out of running.Talking about speed, you see until now I barely mentioned how far I run and how fast I run.  The irony is, I am not only a regular runner, I used to be a regular-5km –casual-runner. I started out by running 5km, no more no less, and maintained there for almost 5 years. I tried once in while to reach higher speed, or longer distance, beyond 5km, heart seemed like to explode, could not maintain a rhythmic breath, need to rest halfway, just like when I initially started running. So eventually, I fall back to my comfortable 5km zone.   That is like my 'plateau, I lie there, comfortably.  
 

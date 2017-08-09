@@ -1,6 +1,7 @@
 Title:#CreatorGateDate: 2016-03-05 11:40Modified: 2016-03-05Tags: academic-researchCategory: Blog/ChineseSlug: plos-one-creator-gateAuthor: JIN Lin
 
-![#creatorgate](https://dl.dropboxusercontent.com/u/18094167/BlogImages/plosone-creatorgate.jpg)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/108107823@N04/35562364614/in/dateposted-public/" title="plosone-creatorgate"><img src="https://farm5.staticflickr.com/4408/35562364614_9fd4d66276.jpg" width="500" height="375" alt="plosone-creatorgate"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 继前段时间[Springer撤销64篇论文](http://www.nature.com/news/faked-peer-reviews-prompt-64-retractions-1.18202)后，中国研究人员又在论文出版界搞出了一个[大新闻](http://www.nature.com/news/paper-that-says-human-hand-was-designed-by-creator-sparks-concern-1.19499)。*Plos* ONE上一篇多次提到**design by the Creator**的论文引起了激烈的争论，最终导致文章被撤销。目前这篇文章达到了13万多的访问量，可能是史上最高了。
 
 文章中三次提到**Creator**：

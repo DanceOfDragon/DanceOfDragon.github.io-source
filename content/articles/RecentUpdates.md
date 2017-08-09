@@ -2,7 +2,7 @@ Title:Recent Updates: Running and SpeakingDate: 2016-05-17 11:40Modified: 2016
 
 > *Before posting anything anywhere, think about one question: What Is New?*
 
-![by Matthew Wiebe](https://dl.dropboxusercontent.com/u/18094167/BlogImages/photo-1453227588063-bb302b62f50b.jpg)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/108107823@N04/35562366764/in/dateposted-public/" title="Jim-Rohn-Risk-Quotes"><img src="https://farm5.staticflickr.com/4433/35562366764_a127896e4a.jpg" width="500" height="375" alt="Jim-Rohn-Risk-Quotes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 Beside my daily focus on experiments, papers and research-relates courses, I have recently joined two activities which I planned to do quite some time ago. 

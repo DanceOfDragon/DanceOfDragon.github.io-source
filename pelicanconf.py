@@ -14,13 +14,14 @@ DEFAULT_LANG = u'en'
 
 TYPOGRIFY = True
 
-RELATIVE_URLS = True
+# Related to comment disqus
+# RELATIVE_URLS = True
 
 DEFAULT_PAGINATION = 7
 
 #URL settings
 
-DIRECT_TEMPLATES = ['index','archives','categories','tags']
+#DIRECT_TEMPLATES = ['index','archives','categories','tags']
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
@@ -28,15 +29,15 @@ ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%m}/index.html'
 YEAR_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/index.html'
 
-PAGE_URL = 'pages/{slug}/'
-PAGE_SAVE_AS = 'pages/{slug}/index.html'
+#PAGE_URL = 'pages/{slug}/'
+#PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 ABOUT_PAGE = '/pages/about.html'
 
 #THEME
 THEME = 'themes/theme-jakevdp'
 
-STATIC_PATHS = ['images','pages', 'extra/CNAME']
+STATIC_PATHS = ['images','pages', 'pdfs','favicon.ico','extra/CNAME']
 
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
@@ -71,10 +72,12 @@ SITEMAP = {
 
 # About Page
 
-TWITTER_USERNAME = 'XL62812072'
+ABOUT_PAGE = '/pages/about.html'
+#TWITTER_USERNAME = 'XL62812072'
 GITHUB_USERNAME = 'DanceOfDragon'
+AUTHOR_WEBSITE = 'http://linnus.com'
+AUTHOR_CV = "/pdfs/JIN Lin_CV_2015f"
 
-#AUTHOR_CV = "http://staff.washington.edu/jakevdp/media/pdfs/CV.pdf"
 
 #Achives
 
@@ -91,10 +94,9 @@ CLEAN_SUMMARY_MAXIMUM = 0
 #md-highlight
 #MD_EXTENSIONS = ['codehilite(css_class=highlight,linenums=False)','extra', 'toc(permalink=true)']
 
-
 DISQUS_SITENAME = 'linnus'
-GOOGLE_ANALYTICS = 'UA-64765479-1'
 
+GOOGLE_ANALYTICS = 'UA-64765479-1'
 #ignore files 
 IGNORE_FILES = ['.DS_Store', '.DS_store']
 

@@ -2,7 +2,7 @@ Title:INTERFACINGDate: 2016-02-27 21:40Modified: 2016-02-27Tags: academic-res
 
 Interface，在中文里可以翻译成界面、接口、交接、对接等等。我们自身其实无时无刻不是在和外界发生各种方式的对接。在Google Ngram Viewer 上看了下这个词的历史使用记录，很明显的是自从70年代后，使用频率呈指数增加，与信息时代发展脚步吻合。甚至可以说是以Apple公司发展步伐一致。Apple在业界以设计卓越著称，它是用户界面、用户体验这些概念的先行者。
 
-![Ngram Viewer-Interface](https://dl.dropboxusercontent.com/u/18094167/BlogImages/interface.png)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/108107823@N04/36001106490/in/dateposted-public/" title="interface"><img src="https://farm5.staticflickr.com/4414/36001106490_7c39d8ee76.jpg" width="500" height="199" alt="interface"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 当然我这里要说的接口不仅局限在人与电子设备的互动。最近在做实验相关的设计时，对interface有了一个更感性的认识。简单举个例子，比如我要设计几个电极，要和其他零件连接，比如承载电极硅片的尺寸，塑料模板和玻璃模板能达到的精度，电极和导线的对接口等等。因为这些零件不是关键技术，为了加快实验进度，节省实验经费，就要尽量和市场上已有的产品能流畅地对接上。在寻找合适的材料的过程中，发现其实这个行业或者已经存在了各种各样的标准，比如type-A/type-B/type-C接口；或者还没有明确的标准，全在各大公司的意志之中（当然结果是或者各自为政，或者有第三方出来制定标准）。不管有还是没有，作为初跨入这个行业的人来说，很难系统地认识，结果就是对自己要做的事形成了一些障碍。
 

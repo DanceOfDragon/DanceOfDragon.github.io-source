@@ -1,6 +1,6 @@
 Title:Switching Domain from GoDaddy to NameCheapDate: 2016-06-25 21:40Modified: 2016-06-25Tags: watchCategory: Blog/EnglishSlug: switching-domain-from-GoDaddy-to-NameCheapAuthor: JIN Lin
 
-![Transfer domain from Godday to Namecheap](https://dl.dropboxusercontent.com/u/18094167/BlogImages/godaddy-to-namechap-domain-transfer-00.jpg)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/108107823@N04/36001107320/in/dateposted-public/" title="godaddy-to-namechap-domain-transfer-00"><img src="https://farm5.staticflickr.com/4390/36001107320_f559956f16.jpg" width="500" height="281" alt="godaddy-to-namechap-domain-transfer-00"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 One year. 
 

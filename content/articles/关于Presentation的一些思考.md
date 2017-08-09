@@ -1,7 +1,8 @@
 Title:关于presentation的一些思考Date: 2016-03-04 17:40Modified: 2016-03-04Tags: academic-researchCategory: Blog/ChineseSlug: about-presentationAuthor: JIN Lin
 
 
-![presentation](https://dl.dropboxusercontent.com/u/18094167/BlogImages/freevector-presentation.jpeg)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/108107823@N04/36229797072/in/dateposted-public/" title="Business-Meeting"><img src="https://farm5.staticflickr.com/4397/36229797072_3a84814b21.jpg" width="500" height="377" alt="Business-Meeting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 【题外话】现在写东西总是有种尴尬：对某个看过的东西的记忆模糊，本想写个"记得","大意是"，"某篇文章说"，但明显知道这是一种偷懒取巧的说法，因为现在既不是战火纷飞也不是信息闭塞，简单的信息只在点击之外，稍微重要的信息也可以在各种数据库里搜索，这是信息沉余带来的负担。很可能这也是文献读多了，希望不是自己的创建都要有据可考。面对这种尴尬，自然是少说为妙，少写省力。看其他人草草写就的技术性文章也是抱着各种疑虑的。很多人喜欢讲故事，是不是因为懒啊？！
 
