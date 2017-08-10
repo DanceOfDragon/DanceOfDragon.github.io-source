@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'JIN Lin'
-SITENAME = u'JIN-LIN | Hallo Welt '
-SITESUBTITLE = u'What I cannot write down I cannot deliver.'
+SITENAME = u'JIN Lin | Oh,Interesting'
+SITESUBTITLE = u'What I Cannot Create I Do Not Understand.'
 
 SITEURL = 'http://linnus.net'
 
