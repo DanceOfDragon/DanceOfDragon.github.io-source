@@ -10,7 +10,7 @@ last updated:    9 Aug,2017
 <img src="/images/avatar.jpg" align="left" width="150" style="padding-right:20px;"/>
 
 > My name is **JIN Lin** (金林), from Chongqing China. I graduated with B.Eng in Chemical & Biomolecular Engineering from National University of Singapore(NUS). Now I am pursuing graduate degree in biomedical field, particularly biosensors.
-> I enjoy [reading](https://www.douban.com/people/auvillage/), [writing](https://www.quora.com/profile/Forrest-Jin), [running](http://linnus.net/posts/2016/Jul/23/ToastMasters-CC3-Get-to-the-Point/) and sometimes [coding](http://github.com/DanceOfDragon). More about me [CV](/pdfs/CV-JinLin-2015.pdf). Contact: <a href="jin@linnus.net">e-mail</a>. 
+> I enjoy [reading](https://www.douban.com/people/auvillage/), [writing](https://www.quora.com/profile/Forrest-Jin), [running](http://linnus.net/posts/2016/Jul/23/ToastMasters-CC3-Get-to-the-Point/) and sometimes [coding](http://github.com/DanceOfDragon). More about me [CV](/pdfs/CV-JinLin-2017.pdf). Contact: <a href="jin@linnus.net">e-mail</a>. 
 
 
 
