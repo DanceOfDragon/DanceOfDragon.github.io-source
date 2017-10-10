@@ -76,7 +76,7 @@ ABOUT_PAGE = '/pages/about.html'
 #TWITTER_USERNAME = 'XL62812072'
 GITHUB_USERNAME = 'DanceOfDragon'
 AUTHOR_WEBSITE = 'http://linnus.com'
-AUTHOR_CV = "/pdfs/JIN Lin_CV_2015f"
+AUTHOR_CV = "/pdfs/JIN Lin_CV_2017"
 
 
 #Achives
