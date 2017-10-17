@@ -1,11 +1,11 @@
 Title:About
 Date: 2017-08-09 10:00
-Modified:2017-08-09 11:30
+Modified:2017-10-17 11:30
 Author: JIN Lin
 Slug: about
 
 
-last updated:    9 Aug,2017
+last updated:    17 Oct,2017
 
 <img src="/images/avatar.jpg" align="left" width="150" style="padding-right:20px;"/>
 
@@ -16,6 +16,8 @@ last updated:    9 Aug,2017
 
 ###UPDATES
 
+
+- 17/10/2017: Ready for the microTAS2017 conference in Savannah, Georgia. To better communicate with people who are interested in my work or in this area, some more supporting materials are added here [microTAS2017-JinLin](/pdfs/microTAS2017-JinLin.pdf).  
 - 07/08/2017: Final semester of my MEng programme started.
 - 27-28/07/2017: Attended Symposium on Advances in Molecular Sensory Engineering (SAMSE)@ Nanyang Technological University, Singapore. 
 - 22/07/2017: Co-authored journal paper [Heterogeneous multi-compartmental hydrogel particles as synthetic cells for incompatible tandem reactions]() accepted by *Nature Communications*.
